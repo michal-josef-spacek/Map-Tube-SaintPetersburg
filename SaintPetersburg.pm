@@ -34,6 +34,7 @@ Map::Tube::SaintPetersburg - Interface to the Saint Petersburg Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::SaintPetersburg;
+
  my $obj = Map::Tube::SaintPetersburg->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);

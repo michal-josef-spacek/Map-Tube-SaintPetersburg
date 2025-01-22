@@ -4,6 +4,7 @@
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Fix stations on multiple lines.
  - Improve LICENSE AND COPYRIGHT section in doc.
+ - Improve SYNOPSIS section in doc.
  - Move bugtracker to github.
  - Rename examples to better names.
  - Update Module::Install to 1.21 version.
