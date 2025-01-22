@@ -115,6 +115,8 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
 =head1 EXAMPLE1
 
+=for comment filename=print_saint_petersburg_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
 =head1 EXAMPLE2
 
+=for comment filename=print_saint_petersburg_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
  # XML file: .*/saint_petersburg-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_saint_petersburg_image.pl
 
  use strict;
  use warnings;
@@ -189,6 +195,8 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
 
 =head1 EXAMPLE4
 
+=for comment filename=print_saint_petersburg_lines.pl
+
  use strict;
  use warnings;
 
@@ -212,6 +220,8 @@ For more information about Saint Petersburg Map, click L<here|https://en.wikiped
  # Фрунзенско-Приморская линия
 
 =head1 EXAMPLE5
+
+=for comment filename=print_saint_petersburg_line_stations.pl
 
  use strict;
  use warnings;
