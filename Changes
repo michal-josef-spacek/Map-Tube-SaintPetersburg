@@ -5,6 +5,7 @@
  - Update Module::Install to 1.21 version.
  - Update autor name.
  - Update copyright years to 2017.
+ - Update dependency to Map::Tube version 3.62.
  - Update to Map::Tube 3.41.
 
 0.06 2015-11-05T11:30:11+01:00
