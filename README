@@ -68,11 +68,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::SaintPetersburg;
 
@@ -89,11 +87,9 @@ EXAMPLE1
      # Route: Лесная (Кировско-Выборгская линия), Выборгская (Кировско-Выборгская линия), Площадь Ленина (Кировско-Выборгская линия), Чернышевская (Кировско-Выборгская линия), Площадь Восстания (Кировско-Выборгская линия), Владимирская (Кировско-Выборгская линия), Пушкинская (Кировско-Выборгская линия), Технологический институт (Кировско-Выборгская линия,Московско-Петроградская линия), Сенная площадь (Московско-Петроградская линия), Невский проспект (Московско-Петроградская линия), Горьковская (Московско-Петроградская линия), Петроградская (Московско-Петроградская линия), Чёрная речка (Московско-Петроградская линия), Пионерская (Московско-Петроградская линия), Удельная (Московско-Петроградская линия), Озерки (Московско-Петроградская линия)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::SaintPetersburg;
 
      # Object.
@@ -109,11 +105,9 @@ EXAMPLE2
      # XML file: .*/saint_petersburg-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::SaintPetersburg;
@@ -137,11 +131,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 207926 Feb 18 07:13 SaintPetersburg.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::SaintPetersburg;
 
@@ -162,11 +154,9 @@ EXAMPLE4
      # Фрунзенско-Приморская линия
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::SaintPetersburg;
 
