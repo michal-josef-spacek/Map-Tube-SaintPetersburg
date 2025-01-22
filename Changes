@@ -2,7 +2,7 @@
  - Add test for ok_map_functions().
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Improve LICENSE AND COPYRIGHT section in doc.
- - Update Module::Install to 1.18 version.
+ - Update Module::Install to 1.21 version.
  - Update autor name.
  - Update copyright years to 2017.
  - Update to Map::Tube 3.41.
